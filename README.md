@@ -1,6 +1,7 @@
 <h3>Hola, soy Lautaro 🧑‍💻</h3>
 
-![Imagen de presentación](https://github.com/Laut153/Laut153/assets/75812390/fc142e02-a210-49b3-8513-cc11fac3c2ce)
+![Imagen de presentación](https://github.com/Laut153/Laut153/assets/75812390/2cae2c5c-958b-4abd-9cec-ea1aa9bd7c87)
+
 
 Soy estudiante de la carrera de Inteligencia Artificial y Ciencia de Datos, y me encuentro cursando el ultimo año. En el transcurso de la carrera realizamos diferentes situaciones problematicas, donde se nos presentaba un problema del mundo real, como también desafios de Kaggle, y debiamos presentar soluciones a dicho problema aplicando machine learning. Además, de forma independiente me encuentro en constante formación sobre la inteligencia artificial. Si te interesa contactarme, puedes enviarme un  [email](mailto:lautarosantos76@gmail.com) o por las siguientes redes sociales.
 
