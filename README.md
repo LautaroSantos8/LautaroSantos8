@@ -6,10 +6,12 @@ Hola, me llamo Lautaro y soy DataScientist. Me especializo en el desarrollo de m
 
 Desarrollé diferentes algoritmos pero entre los mas importantes se encuentran los siguientes:
 * Autenticación de Doble Factor con Keystroke-Dynamics:
- Implementación de un método de autenticación de
-...........doble factor utilizando keystroke-dynamics.
-- Aumento de la seguridad mediante la identificación
-............biométrica de los patrones de tecleo únicos del usuario.
+  En dicho proyecto se buscaba aumentar la seguridad mediante la identificación biométrica del patron de tecleo de los usuarios
+* Detector de Noticias Falsas:
+  En dicho proyecto se desarrolló un identificador de noticias para ser utilizado en el período de elecciones presidenciales 
+* Pronosticador de cantidad ventas en una tienda:
+  Implementación de un algoritmo de series de tiempo junto a Forecasting para la predicción de cantidades de venta en un determinado período.
+
 
 Soy DataScientist, y me encuentro cursando el ultimo año. En el transcurso de la carrera realizamos diferentes situaciones problematicas, donde se nos presentaba un problema del mundo real, como también desafios de Kaggle, y debiamos presentar soluciones a dicho problema aplicando machine learning. Además, de forma independiente me encuentro en constante formación sobre la inteligencia artificial. Si te interesa contactarme, puedes enviarme un  [email](mailto:lautarosantos76@gmail.com) o por las siguientes redes sociales.
 
