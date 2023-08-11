@@ -1,4 +1,4 @@
-<h3>Hola, soy Lautaro 🧑‍💻</h3>
+
 
 ![Imagen de presentación](https://github.com/Laut153/Laut153/assets/75812390/2cae2c5c-958b-4abd-9cec-ea1aa9bd7c87)
 
