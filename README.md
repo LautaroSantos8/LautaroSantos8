@@ -33,7 +33,6 @@ Desarrollé diferentes algoritmos pero entre los mas importantes se encuentran l
 
 <h3>Conocimientos:</h3>
 <p>Lenguajes de programación</p>
-<p>Lenguajes de programación</p>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square" />
