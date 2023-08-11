@@ -2,8 +2,16 @@
 
 ![Imagen de presentación](https://github.com/Laut153/Laut153/assets/75812390/2cae2c5c-958b-4abd-9cec-ea1aa9bd7c87)
 
+Hola, me llamo Lautaro y soy DataScientist. Me especializo en el desarrollo de modelos de Machine Learning para la resolución de problemas, además tengo conocimientos en herramientas de Procesamiento del Lenguaje Natural. 
 
-Soy estudiante de la carrera de Inteligencia Artificial y Ciencia de Datos, y me encuentro cursando el ultimo año. En el transcurso de la carrera realizamos diferentes situaciones problematicas, donde se nos presentaba un problema del mundo real, como también desafios de Kaggle, y debiamos presentar soluciones a dicho problema aplicando machine learning. Además, de forma independiente me encuentro en constante formación sobre la inteligencia artificial. Si te interesa contactarme, puedes enviarme un  [email](mailto:lautarosantos76@gmail.com) o por las siguientes redes sociales.
+Desarrollé diferentes algoritmos pero entre los mas importantes se encuentran los siguientes:
+* Autenticación de Doble Factor con Keystroke-Dynamics:
+ Implementación de un método de autenticación de
+...........doble factor utilizando keystroke-dynamics.
+- Aumento de la seguridad mediante la identificación
+............biométrica de los patrones de tecleo únicos del usuario.
+
+Soy DataScientist, y me encuentro cursando el ultimo año. En el transcurso de la carrera realizamos diferentes situaciones problematicas, donde se nos presentaba un problema del mundo real, como también desafios de Kaggle, y debiamos presentar soluciones a dicho problema aplicando machine learning. Además, de forma independiente me encuentro en constante formación sobre la inteligencia artificial. Si te interesa contactarme, puedes enviarme un  [email](mailto:lautarosantos76@gmail.com) o por las siguientes redes sociales.
 
 <h3>Mis redes sociales:</h3>
 <p>
