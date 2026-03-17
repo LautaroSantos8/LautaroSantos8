@@ -55,5 +55,5 @@ Previously at **Scale AI** (2024–2026) as AI Trainer & Team Lead — designing
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-santos-da-silveira-2a0852201/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111110?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-liart-delta-0mkhtv6th2.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111110?style=flat-square&logo=vercel&logoColor=white)](https://lautarosantos.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lautarosantos76@gmail.com)
